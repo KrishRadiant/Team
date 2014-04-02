@@ -17,8 +17,6 @@ Php
 <input type="hidden" name="action" value="login">
 <input type="hidden" name="hide" value="">
 
-hareesh
-
 <table class='center'>
 <tr><td>Nombre de usuario:</td><td><input type="text" name="login"></td></tr>
 <tr><td>Contraseña:</td><td><input type="password" name="password"></td></tr>
